@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:descendantFocusability="blocksDescendants">
+
+    <LinearLayout
+        android:id="@+id/thumbnail_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="5dip"
+        android:padding="3dip">
+
+        <ImageView
+            android:id="@+id/thumbnail"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/inventoryicon" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_toRightOf="@+id/thumbnail_image"
+        android:textColor="#4e4e4f"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:typeface="normal" />
+
+    <TextView
+        android:id="@+id/supplier"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="1dp"
+        android:layout_toRightOf="@+id/thumbnail_image"
+        android:maxLength="90"
+        android:textColor="#848484"
+        android:textSize="10sp" />
+
+    <!-- Rightend Duration -->
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="17dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="8dp"
+        android:layout_toLeftOf="@+id/price"
+        android:src="@drawable/money"
+        android:textColor="#10bcc9"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="9dp"
+        android:text="50"
+        android:textColor="#10bcc9"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="17dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="30dp"
+        android:layout_toLeftOf="@+id/set_inventory"
+        android:src="@drawable/inventory"
+        android:textColor="#10bcc9"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/set_inventory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="32dp"
+        android:text="50"
+        android:textColor="#10bcc9"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/product_sold"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:text="Sales"
+        android:textSize="8sp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="70dp"
+        android:layout_marginTop="25dp"
+        />
+
+    <Button
+        android:id="@+id/product_order"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:text="Order"
+        android:textSize="8sp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="120dp"
+        android:layout_marginTop="25dp"
+        />
+</RelativeLayout>

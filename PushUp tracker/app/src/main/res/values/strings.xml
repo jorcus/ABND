@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Push Up Tracker</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Pets</string>
+    <string name="editor_activity_title_new_pet">Add a Pet</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_date">Date</string>
+    <string name="category_time">Time</string>
+    <string name="category_name">Name</string>
+    <string name="category_gender">Gender</string>
+    <string name="category_quantity">Push Up</string>
+
+    <string name="hint_pushup_date">Date</string>
+    <string name="hint_pushup_time">Time</string>
+    <string name="hint_pushup_name">Name</string>
+    <string name="hint_pushup_quantity">Push Up Quantity</string>
+    <string name="unit_pushup_quantity">Times</string>
+
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+</resources>

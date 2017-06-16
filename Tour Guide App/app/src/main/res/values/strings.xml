@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Malaysia Tour Guide</string>
+
+
+    <!-- Shopping Mall resources -->
+    <string name="sunway_pyramid_name">Sunway Pyramid</string>
+    <string name="sunway_pyramid_hours">10AM–10PM</string>
+    <string name="sunway_pyramid_location">Petaling Jaya</string>
+    <string name="sunway_pyramid_address">Sunway Pyramid Shopping Mall, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia</string>
+    <string name="sunway_pyramid_phone">+603-7494 3100</string>
+    <string name="sunway_pyramid_description"></string>
+
+    <string name="setia_city_mall_name">Setia City Mall</string>
+    <string name="setia_city_mall_hours">10AM–10PM</string>
+    <string name="setia_city_mall_location">Setia Alam</string>
+    <string name="setia_city_mall_address">7, Persiaran Setia Dagang, Setia Alam, 40170 Shah Alam, Selangor, Malaysia</string>
+    <string name="setia_city_mall_phone">+603-3375 8788</string>
+    <string name="setia_city_mall_description"></string>
+
+    <string name="royal_museum_name">Royal Musuem</string>
+    <string name="royal_museum_hours">9PM-5PM</string>
+    <string name="royal_museum_location">Kuala Lumpur</string>
+    <string name="royal_museum_address">Jalan Istana, Istana Negara, 50460 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="royal_museum_phone">+603-2267 1000</string>
+    <string name="royal_museum_description"></string>
+
+    <string name="pavilion_name">Pavilion</string>
+    <string name="pavilion_hours">10AM-10PM</string>
+    <string name="pavilion_location">Kuala Lumpur</string>
+    <string name="pavilion_address">168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="pavilion_phone">+603-2118 8888</string>
+    <string name="pavilion_description"></string>
+
+    <string name="mid_valley_name">Mid Valley Megamal</string>
+    <string name="mid_valley_hours">10AM-10PM</string>
+    <string name="mid_valley_location">Kuala Lumpur</string>
+    <string name="mid_valley_address">Mid Valley Megamall, 75, Lingkaran Syed Putra, Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="mid_valley_phone">+603-2938 3333</string>
+    <string name="mid_valley_description"></string>
+
+    <string name="ioi_city_mall_name">IOI City Mall</string>
+    <string name="ioi_city_mall_hours">10AM-10PM</string>
+    <string name="ioi_city_mall_location">Putrajaya</string>
+    <string name="ioi_city_mall_address">IOI City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya, Malaysia</string>
+    <string name="ioi_city_mall_phone">+603-8328 8899</string>
+    <string name="ioi_city_mall_description"></string>
+
+    <string name="icity_name">i-City</string>
+    <string name="icity_hours">10AM-12AM</string>
+    <string name="icity_location">Shah Alam</string>
+    <string name="icity_address">D-1-G, /AJ, Jalan Multimedia 7/Ah, I-city, 40000 Shah Alam, Selangor, Malaysia</string>
+    <string name="icity_phone">+603-5521 8868</string>
+    <string name="icity_description"></string>
+
+    <string name="berjaya_times_square_name">Berjaya Times Square</string>
+    <string name="berjaya_times_square_hours">10AM-10PM</string>
+    <string name="berjaya_times_square_location">Bukit Bintang</string>
+    <string name="berjaya_times_square_address">Berjaya Times Square, 1, Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</string>
+    <string name="berjaya_times_square_phone">+603-2143 2386</string>
+    <string name="berjaya_times_square_description"></string>
+
+
+    <!-- Food resourse -->
+    <string name="enak_restaurant_name">Enak Restaurant</string>
+    <string name="enak_restaurant_hours">12PM-12AM</string>
+    <string name="enak_restaurant_location">Kuala Lumpur</string>
+    <string name="enak_restaurant_address">LG2, Feast Floor,Starhill Gallery 181. Jalan, Bukit Bintang, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="enak_restaurant_phone">+603-2141 8973</string>
+    <string name="enak_restaurant_description"></string>
+
+    <string name="lafite_name">Lafite</string>
+    <string name="lafite_hours"></string>
+    <string name="lafite_location">Kuala Lumpur</string>
+    <string name="lafite_address">11, Jalan Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="lafite_phone">+603-2074 3900</string>
+    <string name="lafite_description"></string>
+
+
+    <string name="marble8_name">Marble 8</string>
+    <string name="marble8_hours">12–2:30PM, 5PM–2AM</string>
+    <string name="marble8_location">Kuala Lumpur City Centre</string>
+    <string name="marble8_address">Lorong Kuda, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="marble8_phone">12–2:30PM, 5PM–2AM</string>
+    <string name="marble8_description"></string>
+
+    <string name="marini_on_57_name">Marini On 57</string>
+    <string name="marini_on_57_hours">3PM–3AM</string>
+    <string name="marini_on_57_location">Persiaran KLCC</string>
+    <string name="marini_on_57_address">Level 57, Menara 3 Petronas, Persiaran KLCC, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="marini_on_57_phone">+603-2386 6030</string>
+    <string name="marini_on_57_description"></string>
+
+    <string name="nobu_name">Nobu Restaurant</string>
+    <string name="nobu_hours">12–2PM, 6–10:30PM</string>
+    <string name="nobu_location">Persiaran KLCC</string>
+    <string name="nobu_address">Level 56, Menara 3 Petronas, Persiaran KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="nobu_phone">+603-2164 5084</string>
+    <string name="nobu_description"></string>
+
+    <string name="prego_restaurant_name">Prego Restaurant</string>
+    <string name="prego_restaurant_hours">12–2:30PM, 6:30–10:30PM</string>
+    <string name="prego_restaurant_location">Bukit Bintang</string>
+    <string name="prego_restaurant_address">199, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="prego_restaurant_phone">+603-2773 8338</string>
+    <string name="prego_restaurant_description"></string>
+
+    <string name="thirty8_name">THIRTY8 Restarant</string>
+    <string name="thirty8_hours">6AM-11PM</string>
+    <string name="thirty8_location">Kuala Lumpur</string>
+    <string name="thirty8_address">Grand Hyatt Malaysia,, 12, Jalan Pinang, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</string>
+    <string name="thirty8_phone">+603-2182 1234</string>
+    <string name="thirty8_description"></string>
+
+    <string name="troika_sky_dining_name">Fuego Troika Sky Dining</string>
+    <string name="troika_sky_dining_hours">6:30–11PM</string>
+    <string name="troika_sky_dining_location">The Troika</string>
+    <string name="troika_sky_dining_address">Level 23a, Tower B, The Troika, 19 Persiaran KLCC, 50450 Kuala Lumpur, Malaysia</string>
+    <string name="troika_sky_dining_phone">+603-2162 0886</string>
+    <string name="troika_sky_dining_description"></string>
+
+    <string name="view_rooftop_bar_name">View Rooftop Bar</string>
+    <string name="view_rooftop_bar_hours">5PM–3AM</string>
+    <string name="view_rooftop_bar_location">Kuala Lumpur</string>
+    <string name="view_rooftop_bar_address">Gtower, 199, Jalan Tun Razak, Kuala Lumpur, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia</string>
+    <string name="view_rooftop_bar_phone">+603-2168 1881</string>
+    <string name="view_rooftop_bar_description"></string>
+
+</resources>

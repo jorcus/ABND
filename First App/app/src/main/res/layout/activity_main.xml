@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#aeddf5"
+    tools:context="com.example.kiang.myapplication.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageLabel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cats"
+        android:scaleType="fitStart"
+        />
+
+    <TextView
+        android:id="@+id/textLabel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name : Cindy"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="250dp"
+        android:textSize="15sp"
+        />
+
+    <TextView
+        android:id="@+id/textLabel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address : 873 Woodland Street Cartersville,
+                   GA 30120"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="280dp"
+        android:textSize="15sp"
+        />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="330dp"
+        android:src="@drawable/phone"
+        android:layout_marginLeft="50dp"
+        />
+
+    <TextView
+        android:id="@+id/textLabel3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=": +6 012 - 345 6789"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="330dp"
+        android:textSize="15sp"
+        />
+    <TextView
+        android:id="@+id/textLabel4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description : Cindy is a Loving and intelligent
+                         cat."
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="360dp"
+        android:textSize="15sp"
+        />
+</RelativeLayout>
